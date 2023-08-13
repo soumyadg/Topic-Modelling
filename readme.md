@@ -78,7 +78,6 @@ Why wield the power of topic modelling, you ask? Well, it's the compass that gui
 Embark on the exploration of two majestic topic modelling techniques:
 
 - **Latent Dirichlet Allocation (LDA)**: A probabilistic masterpiece that envisions documents as a symphony of topics, and each topic as a harmonious blend of words.
-- **Non-Negative Matrix Factorization (NMF)**: The alchemy of linear algebra, conjuring topics from the matrix of terms and documents.
 
 ## Implementation 🛠️
 
